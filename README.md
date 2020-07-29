@@ -1,4 +1,19 @@
-### Hi there 👋
+👨‍🔧 田中 大成 (Tanaka Taisei)
+====
+
+- エイミー株式会社
+- システムエンジニア
+- 技術を追ったり、技術で自分の生活を便利にするのが好き
+
+## :wrench: Skill
+
+- JavaScript (ESNext)
+- TypeScript
+- Node.js
+- Vue.js
+- Nuxt.js
+- PostgreSQL
+- Google Cloud
 
 <!--
 **ta-tanaka-eimee/ta-tanaka-eimee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
